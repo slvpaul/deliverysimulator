@@ -1,0 +1,1 @@
+This project simulates the delivery of packages by 3 trucks and is a variation on the traveling salesman problem. It utilizes a self-adjusting hash table as the data structure that stores the packages and, to optimize the delivery route, it uses a variation of a nearest neighbor algorithm with time complexity of O(n^2).
